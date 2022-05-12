@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " HS",
+      " PA",
+      "K  "
+  ],
+  "key": {
+      "H": {
+          "item": "titanium:titanium_hoe"
+      },
+      "S": {
+          "item": "titanium:titanium_shovel"
+      },
+      "P": {
+          "item": "titanium:titanium_pickaxe"
+      },
+      "A": {
+          "item": "titanium:titanium_axe"
+      },
+      "K": {
+          "item": "titanium:titanium_sword"
+      }
+  },
+  "result": {
+      "item": "titanium:titanium_multitool",
+      "count": 1
+  },
+  "group": "multitools"
+}

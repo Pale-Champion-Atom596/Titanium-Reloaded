@@ -1,0 +1,22 @@
+{
+    "item.titanium.titanium_shovel": "Titanium Shovel",
+    "item.titanium.titanium_hoe": "titanium Hoe",
+    "item.titanium.titanium_pickaxe": "titanium Pickaxe",
+    "item.titanium.titanium_sword": "Titanium Sword",
+    "item.titanium.titanium_axe": "Titanium Axe",
+    "item.titanium.titanium_helmet": "Titanium Helmet",
+    "item.titanium.titanium_chestplate": "Titanium Chestplate",
+    "item.titanium.titanium_leggings": "Titanium Leggings",
+    "item.titanium.titanium_boots": "Titanium Boots",
+
+    "item.titanium.raw_titanium": "Raw Titanium",
+    "item.titanium.titanium_ingot": "Titanium Ingot",
+
+    "block.titanium.titanium_ore": "Titanium Ore",
+    "block.titanium.deepslate_titanium_ore": "Deepslate Titanium Ore",
+    "block.titanium.end_titanium_ore": "End Titanium Ore",
+    "block.titanium.raw_titanium_block": "Block of Raw Titanium",
+    "block.titanium.titanium_block": "Block of Titanium",
+
+    "item.titanium.ipopkat": "ipopkat"
+}
