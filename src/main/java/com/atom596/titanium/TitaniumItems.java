@@ -20,11 +20,11 @@ public class TitaniumItems {
     public static final Item RAW_TITANIUM_BLOCK_ITEM = new BlockItem(TitaniumBlocks.RAW_TITANIUM_BLOCK, new FabricItemSettings().group(ItemGroup.MISC));
 
     //Tools
-    public static ToolItem TITANIUM_SWORD = new SwordItem(TitaniumMaterial.INSTANCE, 3, -2.4F, new Item.Settings().group(ItemGroup.COMBAT));
-    public static ToolItem TITANIUM_PICKAXE = new CustomPickaxeItem(TitaniumMaterial.INSTANCE, 15, -3.0F, new Item.Settings().group(ItemGroup.TOOLS));
-    public static ToolItem TITANIUM_SHOVEL = new ShovelItem(TitaniumMaterial.INSTANCE, 1.5F, -3.0F, new Item.Settings().group(ItemGroup.TOOLS));
-    public static ToolItem TITANIUM_AXE = new CustomAxeItem(TitaniumMaterial.INSTANCE, 3F, -2.4F, new Item.Settings().group(ItemGroup.TOOLS));
-    public static ToolItem TITANIUM_HOE = new CustomHoeItem(TitaniumMaterial.INSTANCE, 1, -3.0F, new Item.Settings().group(ItemGroup.TOOLS));
+    public static ToolItem TITANIUM_SWORD = new SwordItem(TitaniumMaterial.INSTANCE, 5, -2.4F, new Item.Settings().group(ItemGroup.COMBAT));
+    public static ToolItem TITANIUM_PICKAXE = new CustomPickaxeItem(TitaniumMaterial.INSTANCE, 3, -2.8F, new Item.Settings().group(ItemGroup.TOOLS));
+    public static ToolItem TITANIUM_SHOVEL = new ShovelItem(TitaniumMaterial.INSTANCE, 3.5F, -3.0F, new Item.Settings().group(ItemGroup.TOOLS));
+    public static ToolItem TITANIUM_AXE = new CustomAxeItem(TitaniumMaterial.INSTANCE, 8F, -3.1F, new Item.Settings().group(ItemGroup.TOOLS));
+    public static ToolItem TITANIUM_HOE = new CustomHoeItem(TitaniumMaterial.INSTANCE, 0, -1.0F, new Item.Settings().group(ItemGroup.TOOLS));
 
     public static void registerItems() {
         Registry.register(Registry.ITEM, new Identifier("titanium", "raw_titanium"), RAW_TITANIUM);
